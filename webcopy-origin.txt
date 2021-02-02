@@ -130,15 +130,15 @@ Uri: https://static.tildacdn.com/js/tilda-zoom-2.0.min.js
 File Name: C:\Users\Denis\Desktop\shufr\project3624492.tilda.ws\js\tilda-zoom-2.0.min.js
 Content Type: application/javascript
 
-Uri: http://project3624492.tilda.ws/tilda-blocks-2.12.css?t=1612283463
+Uri: http://project3624492.tilda.ws/tilda-blocks-2.12.css?t=1612283941
 File Name: C:\Users\Denis\Desktop\shufr\project3624492.tilda.ws\tilda-blocks-2.12.css
 Content Type: text/css
 
-Uri: https://api.whatsapp.com/send?phone=79117119118
-File Name: C:\Users\Denis\Desktop\shufr\project3624492.tilda.ws\send.html
-Content Type: text/html
-
-Uri: http://project3624492.tilda.ws/tilda-blocks-2.7.js?t=1612283463
+Uri: http://project3624492.tilda.ws/tilda-blocks-2.7.js?t=1612283941
 File Name: C:\Users\Denis\Desktop\shufr\project3624492.tilda.ws\tilda-blocks-2.7.js
 Content Type: application/javascript
+
+Uri: https://api.whatsapp.com/send/?phone=79117119118&text&app_absent=0
+File Name: C:\Users\Denis\Desktop\shufr\project3624492.tilda.ws\send\index.htm
+Content Type: text/html
 
